@@ -12,6 +12,10 @@ Materi kuliah ini disadur dari berbagai sumber, yaitu
 2. [Harvard Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home)
 3. [Max Planck Institute: Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
 
-Beberapa materi untuk sementara waktu dapat diakses di [repositori ini](https://github.com/aliakbars/uai-stats) sampai disediakan tempat yang baru untuk penyesuaian.
+Beberapa materi untuk sementara waktu dapat diakses di [repositori ini](https://github.com/aliakbars/uai-stats) sampai disediakan tempat yang baru.
 
 Silakan bergabung di [grup Telegram](https://t.me/pengantarstatistika) untuk memudahkan diskusi dan mendapatkan informasi terbaru.
+
+## Soal Latihan
+
+Silakan coba soal-soal latihan yang disediakan di [sini](https://docs.google.com/document/d/19eJuNJJvCIl_ssjAaNLyeflKTqytlTC5frsUzpVL41Q/edit?usp=sharing). Anda dapat berkontribusi juga dengan memberikan alamat Gmail Anda ke saya.
