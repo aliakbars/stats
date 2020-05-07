@@ -2,7 +2,7 @@
 
 oleh [Ali Akbar Septiandri](https://twitter.com/aliakbars)
 
-Sesi Pengantar Statistika diadakan setiap hari Selasa dan Kamis pukul 09.00-10.00 WIB melalui Zoom. Tautan dan kata kuncinya dapat dilihat di [Twitter saya](https://twitter.com/aliakbars) atau [grup Telegram](https://t.me/pengantarstatistika). Informai mengenai materi tiap minggunya dapat dilihat di kedua sumber tersebut.
+Sesi Pengantar Statistika diadakan setiap hari Selasa dan Kamis pukul 09.00-10.00 WIB melalui Zoom. Tautan dan kata kuncinya dapat dilihat di [Twitter saya](https://twitter.com/aliakbars) atau [grup Telegram](https://t.me/pengantarstatistika). Informasi mengenai materi tiap minggunya dapat dilihat di kedua sumber tersebut.
 
 Rekaman video kuliah di sesi-sesi sebelumnya bisa dilihat di playlist di bawah.
 
