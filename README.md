@@ -8,6 +8,8 @@ Rekaman video kuliah di sesi-sesi sebelumnya bisa dilihat di playlist di bawah.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLvLX5-kC2DXaUM8eB8vgBbhjtMCLmI3x2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Buku yang dapat dijadikan sumber utama untuk kuliah ini adalah [Think Stats](https://greenteapress.com/wp/think-stats-2e/) dari Allen B. Downey (gratis dan legal).
+
 Materi kuliah ini disadur dari berbagai sumber, yaitu
 
 1. [Stanford CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/)
